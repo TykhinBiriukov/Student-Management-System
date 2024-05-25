@@ -8,7 +8,7 @@ Making new Students Management System which contains data about student's person
 - C#
 
 ## 🛠 Features
-Programm asks user to input: 
+As an admin you have such options: 
 - Adding new students
 - Updating personal information
 - Course enrollment
