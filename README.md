@@ -1,4 +1,4 @@
-# Symbol Deleter
+# Student Management System
 
 Making new Students Management System which contains data about student's personal information, courses enrolled and size of the student's debt.
 ## 📦 Tech Stack
